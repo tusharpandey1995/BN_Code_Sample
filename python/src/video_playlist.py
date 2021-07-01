@@ -1,5 +1,5 @@
 """A video playlist class."""
-from video import Video
+from .video import Video
 
 class Playlist:
 
